@@ -24,8 +24,9 @@ pip install -r requirements.txt
 ```
 
 ### Test 
+In the terminal, run the test.py file to see how the language_detector() function works.
 ```
-
+python test.py
 ```
 
 ## Authors <a name="authors"></a>
