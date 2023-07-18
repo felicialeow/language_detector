@@ -14,13 +14,13 @@ Follow the instructions to use the model for your own purpose.
 ### Prerequisites 
 Create a local copy of the repository 
 ```
-
+git clone https://github.com/felicialeow/language_detector.git
 ```
 
 ### Installing 
 Install the required python libraries 
 ```
-
+pip install -r requirements.txt
 ```
 
 ### Test 
