@@ -5,3 +5,4 @@ python-iso639
 sentencepiece
 scikit-learn
 spacy
+iso639
