@@ -1,0 +1,7 @@
+pandas 
+numpy
+google.colab
+python-iso639
+sentencepiece
+scikit-learn
+spacy
