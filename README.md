@@ -105,12 +105,12 @@ python test.py
 ## Acknowledgements <a name="acknowledgements"></a>
 Credits to the following sources for providing the dataset used in the project:  
 
-- Basil Saji: [A Dataset for Language Detection]("https://www.kaggle.com/datasets/basilb2s/language-detection")
-- Aman Kharwal: [Language Detection with Machine Learning]("https://thecleverprogrammer.com/2021/10/30/language-detection-with-machine-learning/")
-- LucaPapariello: [Language Identification]("https://huggingface.co/datasets/papluca/language-identification")
-- Chazzer: [Big Language Detection Dataset]("https://www.kaggle.com/datasets/chazzer/big-language-detection-dataset")
+- Basil Saji: [A Dataset for Language Detection](https://www.kaggle.com/datasets/basilb2s/language-detection)
+- Aman Kharwal: [Language Detection with Machine Learning](https://thecleverprogrammer.com/2021/10/30/language-detection-with-machine-learning/)
+- LucaPapariello: [Language Identification](https://huggingface.co/datasets/papluca/language-identification)
+- Chazzer: [Big Language Detection Dataset](https://www.kaggle.com/datasets/chazzer/big-language-detection-dataset)
 
 The language detector model built in this project has taken inspiration from the following projects; 
 
-- Ritchie Ng: [Vectorization, Multinomial Naive Bayes Classifier and Evaluation]("https://www.ritchieng.com/machine-learning-multinomial-naive-bayes-vectorization/")
-- Kent37: [guess-language]("https://github.com/kent37/guess-language")
+- Ritchie Ng: [Vectorization, Multinomial Naive Bayes Classifier and Evaluation](https://www.ritchieng.com/machine-learning-multinomial-naive-bayes-vectorization/)
+- Kent37: [guess-language](https://github.com/kent37/guess-language)
