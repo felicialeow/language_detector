@@ -100,7 +100,7 @@ python test.py
 
 ## Authors <a name="authors"></a>
 - Felicia Leow
-- Han Riffin
+- [Han Riffin](https://github.com/hanriffin)
 
 ## Acknowledgements <a name="acknowledgements"></a>
 Credits to the following sources for providing the dataset used in the project:  
