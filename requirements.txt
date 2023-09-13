@@ -2,7 +2,7 @@ pandas
 numpy
 google.colab
 python-iso639
-sentencepiece
+sentencepiece-0.1.99
 scikit-learn
 spacy
 iso639
